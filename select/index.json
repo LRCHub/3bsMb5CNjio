@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ライフ！イート！ワーク！",
+  "base_artist": "ななひら",
+  "createdAt": "2026-01-08T12:29:27.345426Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライフ!イート!ワーク!",
+      "artist": "ななひら",
+      "has_synced": false,
+      "path": "select/pl_01_ライフ!イート!ワーク!_ななひら.txt"
+    }
+  ]
+}
